@@ -1,4 +1,4 @@
-# wow01
+# JBR
 World of Warcraft 2.4.3 JBRx64 Chinese Version is made by wow01 using TrinityCore
 
 魔獸世界 2.4.3 JBRx64 中文版 採用 TrinityCore 核心製作
