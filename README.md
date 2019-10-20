@@ -1,7 +1,7 @@
 # JBRx64 zhTW zhCN World of Warcraft 3.3.5a
 World of Warcraft 3.3.5a JBRx64 Chinese Version ( zhTW=12340 , zhCN=13930 )
 
-原版官方 3.3.5a 遊戲中文版(可安裝) 英文語音 enTW enCN (選擇)
+官方原版 3.3.5a 遊戲中文版(可安裝) 英文語音 enTW enCN (選擇)
 
 zhTW-12340 | zhCN-13930
 :------------: | :------------:
